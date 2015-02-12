@@ -10,6 +10,7 @@
 
     <com.android.volley.toolbox.NetworkImageView
         android:id="@+id/network_image"
+        style="@style/FactsListRow.Image"
         android:layout_alignParentRight="true"
         android:layout_below="@id/title"
         android:layout_margin="6dp" />
